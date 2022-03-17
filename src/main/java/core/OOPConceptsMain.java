@@ -1,4 +1,4 @@
-package br.com.cleoassistant;
+package main.java.core;
 
 public class OOPConceptsMain {
 

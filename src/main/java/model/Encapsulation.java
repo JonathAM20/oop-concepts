@@ -1,4 +1,4 @@
-package br.com.cleoassistant.model;
+package main.java.model;
 
 public class Encapsulation {
 	
