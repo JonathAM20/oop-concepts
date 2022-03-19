@@ -1,10 +1,13 @@
 package main.java.core;
 
+import main.java.model.AbstractionLogin;
+import main.java.model.GithubLogin;
+
 public class OOPConceptsMain {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Hello World!");
+		AbstractionLogin githubLogin = new GithubLogin("admin", "admin");
+		githubLogin.login();
 	}
 
 }
